@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA87B2263166832B2a0704D854d13d0Fd3f07629c",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa87b2263166832b2a0704d854d13d0fd3f07629c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sosig Dog",
+  "SYMBOL": "SSGNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sosig-dog",
+  "SHOW_BACKGROUND": true
+}
